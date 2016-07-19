@@ -1,7 +1,6 @@
 # Git work flow practice
 
 
-
 這是一個 Git and Github 的練習項目   
 Github 上面這些都是使用一個叫做 markdown 的語法所撰寫基本的文件
 
@@ -85,5 +84,6 @@ Git 可以大致分為 Local (本地) 、與 Repository (儲存庫)
 		
 
 ## 延伸閱讀
-[Git 版本控制系統 by ihower](https://ihower.tw/git/)
+[Git flow 開發流程](https://ihower.tw/blog/archives/5140)
+[Git 版本控制系統 by ihower](https://ihower.tw/git/)  
 [GIT版本控制  新北市教研中心－程式設計班](https://kingofamani.gitbooks.io/git-teach/content/)
