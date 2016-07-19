@@ -59,7 +59,7 @@ Git 可以大致分為 Local (本地) 、與 Repository (儲存庫)
 
 假設遇到這次的修改改壞了，可以使用 git checkout 去還原  
 
-	git checkout ./                (一次還原全部到最後一次 commit)
+	git checkout ./                (一次還原全部到最後一次的 commit)
 	git checkout README            (只還原特定檔案或是資料夾)
 
 
