@@ -25,7 +25,7 @@ Mac 裡頭有內建 git ，需要最新版的話可以使用 [homebrew](http://b
 	Enter file in which to save the key (/Users/liyang/.ssh/id_rsa): 
 	Enter passphrase (empty for no passphrase):
 	Enter same passphrase again:
-如果有多個 ssh key 可以使用 [ssh config](#sshConfig)  
+如果有多個 ssh key 可以使用 [ssh config](#ssh-config)  
   
   
 測試 SSH Key 是否能夠正常與 Github 通訊 
@@ -73,7 +73,7 @@ Git 可以大致分為 Local (本地) 、與 Repository (儲存庫)
 	brew cask install sourcetree
 	brew cask install github-desktop
 
-##  <span id="sshConfig">SSH Config</span>
+##  <span id="ssh-config">SSH Config</span>
 
 在路徑 ~/.ssh/ 建立 config 檔案能夠管理設定何時該使用哪一個 SSH Key  
 這樣能夠帶來較清晰的檔案以及 Key 的管理，以下是我的 SSH Config 
