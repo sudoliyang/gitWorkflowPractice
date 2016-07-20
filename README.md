@@ -13,7 +13,7 @@ Mac 裡頭有內建 git ，需要最新版的話可以使用 [homebrew](http://b
 
 	brew install git
 
-## Github and SSh 
+## Github and SSH 
 大部分的 git 都是使用 SSH 連線的方式去同步的，SSH 也是安全性與速度最快的方式 ([延伸閱讀](https://ihower.tw/git/remote.html))  
 所以我們必須要建立 SSH Key 與 Github 做安全的通訊。  
 
@@ -84,6 +84,7 @@ Git 可以大致分為 Local (本地) 、與 Repository (儲存庫)
 		
 
 ## 延伸閱讀  
+
 [Git flow 開發流程](https://ihower.tw/blog/archives/5140)  
 [Git 版本控制系統 by ihower](https://ihower.tw/git/)  
 [GIT版本控制  新北市教研中心－程式設計班](https://kingofamani.gitbooks.io/git-teach/content/)
